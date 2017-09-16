@@ -1,0 +1,14 @@
+{
+    "name": "plasticmind/hbs-mailchimp",
+    "description": "User Submitted Posts Pro.",
+    "type": "wordpress-plugin",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "composer/installers": "^1.0"
+    },
+    "license": "GPL-2.0+",
+    "authors": [{
+        "name": "Jeff Starr"
+    }]
+}
