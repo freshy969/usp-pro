@@ -1,6 +1,6 @@
 {
-    "name": "plasticmind/hbs-mailchimp",
-    "description": "User Submitted Posts Pro.",
+    "name": "plasticmind/usp-pro",
+    "description": "User Submitted Posts Pro (with Composer support)",
     "type": "wordpress-plugin",
     "minimum-stability": "dev",
     "prefer-stable": true,
